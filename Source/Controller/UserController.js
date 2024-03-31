@@ -1,6 +1,6 @@
 import UserModel from "../Models/User.js";
 import Authnticate from "../Auth/Authentication.js";
-import Emailservice from "../Auth/EmailService.js";
+
 
 const getUser = async (req, res) => {
   try {
