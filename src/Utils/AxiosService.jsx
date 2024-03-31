@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const AxiosService = axios.create({
-  baseURL: "https://shopy-mci9.onrender.com",
+  baseURL: "https://shopy-ofpr.onrender.com",
 
   headers: { "content-type": "application/json" },
 });
