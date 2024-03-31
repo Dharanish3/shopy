@@ -1,0 +1,11 @@
+/* Home.css */
+
+.slick-image-container {
+    width: 100%; /* Make sure the container takes 100% width of its parent */
+  }
+  
+  .responsive-image {
+    width: 100%; /* Make the image take 100% width of its container */
+    height: "100%"; /* Maintain the aspect ratio by setting height to auto */
+  }
+  
